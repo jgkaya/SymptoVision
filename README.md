@@ -22,6 +22,7 @@ This is the main interface where users can input their symptoms and upload ultra
 Once the symptoms and ultrasound images are submitted, the tool provides a diagnosis and relevant suggestions:
 
 ![PCOS Diagnosis Result](teşhisvar.png)
+![PCOS Diagnosis Result](teşhisyok.png)
 
 The tool uses machine learning and image processing to give results and detailed explanations based on the inputs.
 
