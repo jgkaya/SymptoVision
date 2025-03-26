@@ -14,14 +14,14 @@ This project provides a tool to assist in diagnosing Polycystic Ovary Syndrome (
 ### User Interface Example
 Below is an example of the PCOS Diagnosis Tool interface:
 
-![PCOS Diagnosis Tool Interface](./images/uygulama_ss!!.png)
+![PCOS Diagnosis Tool Interface](anasayfa.png)
 
 This is the main interface where users can input their symptoms and upload ultrasound images for analysis.
 
 ### Diagnosis Result Example
 Once the symptoms and ultrasound images are submitted, the tool provides a diagnosis and relevant suggestions:
 
-![PCOS Diagnosis Result](./images/uygulama_ss_2.png)
+![PCOS Diagnosis Result](teşhisvar.png)
 
 The tool uses machine learning and image processing to give results and detailed explanations based on the inputs.
 
